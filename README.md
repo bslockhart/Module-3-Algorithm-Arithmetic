@@ -15,7 +15,7 @@ In this activity, you will write code to create functions capable of different a
 
 ## Mock Up
 The following image demonstrates the unsolved function:
-![Unsolved](/assets/images/unsolved.png)
+![Unsolved](./assets/images/unsolved.png)
 
 The following image demonstrates solved function:
 ![Solved](./assets/images/solved.png)
